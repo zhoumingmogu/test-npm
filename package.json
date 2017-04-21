@@ -1,0 +1,22 @@
+{
+  "name": "first_npmzm",
+  "version": "1.0.5",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lego": "./bin/lego.js"
+  },
+  "author": "zhouming",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "chokidar": "^1.4.0",
+    "commander": "^2.9.0",
+    "fs-extra": "^0.26.2",
+    "lodash": "^3.10.1",
+    "readline": "^1.2.1"
+  }
+}

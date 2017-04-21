@@ -1,0 +1,14 @@
+{
+  "name": "lego demo",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhouming",
+  "license": "ISC",
+  "dependencies": {
+        "vue": "^2.2.0",
+    }
+}
